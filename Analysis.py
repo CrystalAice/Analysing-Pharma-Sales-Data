@@ -112,5 +112,5 @@ r03_monthly.plot(kind = "line")
 plot.title('R03 per month')
 plot.show()
 
-print("\nRespitory drugs are sold more during the month of April.")
+print("\nRespiratory drugs are sold more during the months of February to April.")
 
